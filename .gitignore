@@ -1,0 +1,12 @@
+Session.vim
+*.swp
+*.swo
+*.tmp
+.netrwhist
+tags
+pack/vendor/start/*
+pack/vendor/opt/*
+!pack/vendor/start/.gitkeep
+!pack/vendor/opt/.gitkeep
+doc/tags
+pack/**/doc/tags

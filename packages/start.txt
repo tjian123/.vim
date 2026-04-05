@@ -1,0 +1,16 @@
+tpope/vim-sensible
+tpope/vim-repeat
+tpope/vim-sleuth
+tpope/vim-surround
+tpope/vim-commentary
+tpope/vim-fugitive
+airblade/vim-gitgutter
+itchyny/lightline.vim
+joshdick/onedark.vim
+mhinz/vim-startify
+preservim/nerdtree
+ctrlpvim/ctrlp.vim
+jiangmiao/auto-pairs
+editorconfig/editorconfig-vim
+Yggdroot/indentLine
+sheerun/vim-polyglot
